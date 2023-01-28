@@ -1,6 +1,8 @@
 # DiagnoAI
 DiagnoAI is a tool to detect a disease from a text description of the patient's symptoms and daily condition. It is based on a transformer model called BERT, fine-tuned for 24 common diseases.
 
+[Click Here](https://youtu.be/feK93_cZp4w) to view the demo.
+
 # Contents
 1. Usage
 2. Dataset
